@@ -5,4 +5,4 @@ Current restrictions:
 
 
 
-git clone git@github.com:kdm6389/richo.sp111.linux.git
+`git clone git@github.com:kdm6389/richo.sp111.linux.git`
